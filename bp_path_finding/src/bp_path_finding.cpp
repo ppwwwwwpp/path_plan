@@ -33,7 +33,7 @@
 #define K_b 24 //弓形像素膨胀  
 #define interval 7 //弓形布线间隔 
 #define N_point 100 //沿墙最小路径过滤
-#define preset_num 500
+#define preset_num 500 //
 #define MAP_IDX(sx, i, j) ((sx) * (j) + (i))
 #define End 3
 
