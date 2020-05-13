@@ -5,8 +5,8 @@
         bp_std_msgs
     </description>
     <author>junquan</author>
-    <maintainer email="junquan@gmail.com">zq </maintainer>
-    <maintainer email="junquan@fetchrobotics.com">zq</maintainer>
+    <maintainer email="wuliang@gmail.com">zq </maintainer>
+    <maintainer email="wuliang@fetchrobotics.com">zq</maintainer>
     <license>BSD</license>
     <url>http://wiki.ros.org/</url>
 
