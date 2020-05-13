@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+    <node name="path_finding" pkg="bp_path_finding" type="bp_path_finding" output="screen"/>
+</launch>    

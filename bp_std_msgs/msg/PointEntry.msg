@@ -1,0 +1,3 @@
+Actions actions
+GridPoint gridPosition
+string name

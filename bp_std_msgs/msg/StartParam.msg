@@ -1,0 +1,7 @@
+string map_name
+string path_name
+string graph_name
+string graph_path_name
+string graph_path_group_name
+string position_name
+Pose2D destination
